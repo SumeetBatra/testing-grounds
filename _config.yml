@@ -1,3 +1,6 @@
 name: スミート・バトラ
 theme: jekyll-theme-cayman
 markdown: kramdown
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
