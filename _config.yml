@@ -10,11 +10,11 @@ url: "https://sumeetbatra.github.io"
 baseurl: "/SumeetBatra.github.io"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /SumeetBatra.github.io/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
+github_username:  SumeetBatra
+project_repository: SumeetBatra.github.io
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
